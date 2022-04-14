@@ -34,9 +34,11 @@ every time it says "could not find module (module)" literally just type
 
 and try again.
 
-however, once you get to "jinja2" you need a specific version. type
+however, there are 2 which need a specific version. for these you will type:
 
 `pip install jinja2==3.0.3`
+
+`pip install werkzeug==2.0.3`
 
 for it to work. continue the process after this.
 
