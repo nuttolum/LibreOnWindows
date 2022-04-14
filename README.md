@@ -42,6 +42,8 @@ however, there are 2 which need a specific version. for these you will type:
 
 `pip install tzlocal==2.0`
 
+`pip install stanza==1.2.3`
+
 for it to work. continue the process after this.
 
 you will know it worked when it starts downloading languages.
