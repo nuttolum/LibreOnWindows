@@ -32,7 +32,13 @@ every time it says "could not find module (module)" literally just type
 
 `pip install (module)`
 
-and try again. eventually it will work.
+and try again.
+
+however, once you get to "jinja2" you need a specific version. type
+
+`pip install jinja2==3.0.3`
+
+for it to work. continue the process after this.
 
 you will know it worked when it starts downloading languages.
 
