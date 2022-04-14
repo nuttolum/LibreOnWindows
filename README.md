@@ -8,17 +8,17 @@ first, you have to navigate to the whls folder attached and run in command promp
 
 `pip install PyICU-2.7.4-cp310-cp310-win_amd64.whl`
 
-wait for it to finish
-
-then, run: 
-
 `pip install pycld2-0.41-cp310-cp310-win_amd64.whl`
+
+`pip install polyglot-16.7.4-py3-none-any.whl`
 
 wait for it to finish.
 
 you **CANNOT** rename these files, for SOME reason.
 
 next, clone libretranslate's repository (or just download it, idk)
+
+replace `requirements.txt` with the one provided in this repository
 
 open command prompt in the folder and run
 
