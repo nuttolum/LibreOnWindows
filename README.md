@@ -34,4 +34,6 @@ every time it says "could not find module (module)" literally just type
 
 and try again. eventually it will work.
 
+you will know it worked when it starts downloading languages.
+
 im not a python person, this is just what worked for me. good luck
