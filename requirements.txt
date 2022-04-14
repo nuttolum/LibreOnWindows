@@ -1,0 +1,13 @@
+argostranslate==1.6.1
+Flask==1.1.2
+flask-swagger==0.2.14
+flask-swagger-ui==3.36.0
+Flask-Limiter==1.4
+waitress==1.4.4
+expiringdict==1.2.1
+morfessor==2.0.6
+appdirs==1.4.4
+APScheduler==3.7.0
+translatehtml==1.5.2
+argos-translate-files==1.0.5
+itsdangerous==2.0.1
