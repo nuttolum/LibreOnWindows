@@ -16,7 +16,7 @@ wait for it to finish.
 
 you **CANNOT** rename these files, for SOME reason.
 
-next, clone libretranslate's repository (or just download it, idk)
+next, clone libretranslate's repository (or just download it, idk) from [here](https://github.com/LibreTranslate/LibreTranslate)
 
 replace `requirements.txt` with the one provided in this repository
 
