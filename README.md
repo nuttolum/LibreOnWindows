@@ -34,7 +34,7 @@ every time it says "could not find module (module)" literally just type
 
 and try again.
 
-however, there are 2 which need a specific version. for these you will type:
+however, there are a few which need a specific version. for these you will type:
 
 `pip install jinja2==3.0.3`
 
